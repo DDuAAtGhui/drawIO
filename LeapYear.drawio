@@ -1,9 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T13:27:58.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.8" etag="3qqe199gvwub-jFMp3j2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T13:40:53.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="3vxPXbyu0DMZwKcnqaz3" version="24.4.8" type="github">
   <diagram name="페이지-1" id="Kgpgnj0mUQtIzqo_C7fH">
-    <mxGraphModel>
+    <mxGraphModel dx="784" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-1" value="연수가 4로 나누어 떨어짐" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="220" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-16" value="t" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jrOGKPhmEPBE04gQMHAf-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="460" as="sourcePoint" />
+            <mxPoint x="279" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-17" value="true" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="jrOGKPhmEPBE04gQMHAf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-18" value="연수가 400으로 나누어 떨어짐" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="640" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-19" value="t" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="278.5" y="510" as="sourcePoint" />
+            <mxPoint x="278.5" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-20" value="true" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="jrOGKPhmEPBE04gQMHAf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-21" value="연수가 100으로 나누어 떨어짐" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="430" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-22" value="f" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jrOGKPhmEPBE04gQMHAf-1" target="jrOGKPhmEPBE04gQMHAf-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289" y="310" as="sourcePoint" />
+            <mxPoint x="574" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-23" value="false" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="jrOGKPhmEPBE04gQMHAf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-24" value="t" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="278.5" y="720" as="sourcePoint" />
+            <mxPoint x="278.5" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-25" value="true" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="jrOGKPhmEPBE04gQMHAf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-26" value="윤년" style="rounded=1;whiteSpace=wrap;html=1;arcSize=60;" vertex="1" parent="1">
+          <mxGeometry x="219" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-29" value="평년" style="rounded=1;whiteSpace=wrap;html=1;arcSize=60;" vertex="1" parent="1">
+          <mxGeometry x="644" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-30" value="f" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrOGKPhmEPBE04gQMHAf-18" target="jrOGKPhmEPBE04gQMHAf-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514" y="710" as="sourcePoint" />
+            <mxPoint x="654" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="704" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-31" value="false" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="jrOGKPhmEPBE04gQMHAf-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-32" value="f" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrOGKPhmEPBE04gQMHAf-21" target="jrOGKPhmEPBE04gQMHAf-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="690" as="sourcePoint" />
+            <mxPoint x="714" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="64" y="470" />
+              <mxPoint x="64" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-33" value="false" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="jrOGKPhmEPBE04gQMHAf-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-34" value="연수 입력" style="rounded=1;whiteSpace=wrap;html=1;arcSize=60;" vertex="1" parent="1">
+          <mxGeometry x="219" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jrOGKPhmEPBE04gQMHAf-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jrOGKPhmEPBE04gQMHAf-34" target="jrOGKPhmEPBE04gQMHAf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="550" as="sourcePoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
